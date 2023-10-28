@@ -5,3 +5,5 @@
 *.zip
 *.rar
 *.gz
+*.ipynb_checkpoints
+*.csv
